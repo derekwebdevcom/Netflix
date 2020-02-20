@@ -10,7 +10,7 @@ This project uses the following technologies:
 - [Netflix Clone](https://www.netflix.com/) sign up for the real Netflix
 
 ## Configuration
--[Clone](https://github.com/derekwebdevcom/phonestore.git) or
+-[Clone](https://github.com/derekwebdevcom/Netflix.git) or
 -[Download Zip](https://github.com/derekwebdevcom/phonestore/archive/master.zip)
 
 
