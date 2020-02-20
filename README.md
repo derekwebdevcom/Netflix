@@ -1,4 +1,4 @@
-# Phone Store UI Built with React and PayPal API
+# Netflix Clone Landing Page
 
 ![Final App](https://github.com/derekwebdevcom/Netflix/blob/master/src/images/netflix.gif)
 
@@ -11,7 +11,7 @@ This project uses the following technologies:
 
 ## Configuration
 -[Clone](https://github.com/derekwebdevcom/Netflix.git) or
--[Download Zip](https://github.com/derekwebdevcom/phonestore/archive/master.zip)
+-[Download Zip](https://github.com/derekwebdevcom/Netflix/archive/master.zip)
 
 
 ## Quick Start
